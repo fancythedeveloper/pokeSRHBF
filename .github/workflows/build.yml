@@ -38,7 +38,6 @@ jobs:
 
       - name: Make
         run: |
-         cd ..
          make
 
       - name: Upload a Build Artifact
