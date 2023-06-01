@@ -4,7 +4,7 @@ This is the repository of Pokémon: Stupid ROM Hack By Fancy Edition.
 
 It builds the following ROM:
 
-* [**pokeSRHBF.gba**]
+* **pokeSRHBF.gba**
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
